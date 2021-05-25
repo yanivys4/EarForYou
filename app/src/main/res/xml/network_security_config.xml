@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">o20govvnn8.execute-api.eu-west-1.amazonaws.com/staging</domain>
+    </domain-config>
+</network-security-config>
